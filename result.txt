@@ -1,0 +1,127 @@
+~ ./run-all.sh
+class_variable_dt.rb
+-0.169075164
+-0.169031665
+
+real	1m9.422s
+user	1m10.824s
+sys	0m0.552s
+class_variable_dt.rb
+-0.169075164
+-0.169031665
+
+real	1m9.443s
+user	1m10.845s
+sys	0m0.530s
+const_dt.rb
+-0.169075164
+-0.169031665
+
+real	0m49.388s
+user	0m50.793s
+sys	0m0.464s
+const_dt_and_nbodies.rb
+-0.169075164
+-0.169031665
+
+real	0m49.848s
+user	0m51.237s
+sys	0m0.451s
+const_dt_and_nbodies_and_bodies.rb
+-0.169075164
+-0.169031665
+
+real	0m50.246s
+user	0m51.640s
+sys	0m0.485s
+const_dt_and_nbodies_and_inline_innerloop.rb
+-0.169075164
+-0.169031665
+
+real	0m52.973s
+user	0m55.819s
+sys	0m0.518s
+const_dt_and_nbodies_and_inline_outerloop.rb
+-0.169075164
+-0.169031665
+
+real	0m49.046s
+user	0m50.486s
+sys	0m0.478s
+const_dt_and_nbodies_and_getter.rb
+-0.169075164
+-0.169031665
+
+real	0m53.220s
+user	0m54.691s
+sys	0m0.543s
+global_dt.rb
+-0.169075164
+-0.169031665
+
+real	0m54.399s
+user	0m55.831s
+sys	0m0.454s
+global_dt_and_nbodies.rb
+-0.169075164
+-0.169031665
+
+real	0m57.273s
+user	0m58.704s
+sys	0m0.502s
+hoge.rb
+-0.169075164
+-0.169031665
+
+real	1m4.536s
+user	1m6.064s
+sys	0m0.565s
+inline_add_v.rb
+-0.169075164
+-0.169031665
+
+real	1m16.258s
+user	1m18.269s
+sys	0m0.314s
+inline_double_loop.rb
+-0.169075164
+-0.169031665
+
+real	1m1.338s
+user	1m5.272s
+sys	0m0.402s
+inline_double_loop_and_const_nbodies.rb
+-0.169075164
+-0.169031665
+
+real	0m52.368s
+user	0m55.873s
+sys	0m0.353s
+inline_double_loop_and_const_nbodies_and_dt.rb
+-0.169075164
+-0.169031665
+
+real	0m52.620s
+user	0m56.039s
+sys	0m0.358s
+inline_dt.rb
+-0.169075164
+-0.169031665
+
+real	0m51.404s
+user	0m53.220s
+sys	0m0.296s
+inline_inner_loop.rb
+-0.169075164
+-0.169031665
+
+real	0m55.332s
+user	0m58.575s
+sys	0m0.413s
+inline_outer_loop.rb
+-0.169075164
+-0.169031665
+
+real	0m55.371s
+user	0m57.066s
+sys	0m0.547s
