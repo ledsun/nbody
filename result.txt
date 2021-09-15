@@ -3,13 +3,6 @@ class_variable_dt.rb
 -0.169075164
 -0.169031665
 
-real	1m9.422s
-user	1m10.824s
-sys	0m0.552s
-class_variable_dt.rb
--0.169075164
--0.169031665
-
 real	1m9.443s
 user	1m10.845s
 sys	0m0.530s
@@ -62,7 +55,7 @@ global_dt.rb
 real	0m54.399s
 user	0m55.831s
 sys	0m0.454s
-global_dt_and_nbodies.rb
+global_nbodies.rb
 -0.169075164
 -0.169031665
 

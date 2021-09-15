@@ -3,9 +3,6 @@
 echo class_variable_dt.rb
 time ruby --jit class_variable_dt.rb 20000000
 
-echo class_variable_dt.rb
-time ruby --jit class_variable_dt.rb 20000000
-
 echo const_dt.rb
 time ruby --jit const_dt.rb 20000000
 
@@ -27,7 +24,7 @@ time ruby --jit const_dt_and_nbodies_getter.rb 20000000
 echo global_dt.rb
 time ruby --jit global_dt.rb 20000000
 
-echo global_dt_and_nbodies.rb
+echo global_nbodies.rb
 time ruby --jit global_nbodies.rb 20000000
 
 echo  hoge.rb
